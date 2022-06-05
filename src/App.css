@@ -1,0 +1,20 @@
+.app {
+  display: grid;
+  place-items: center;
+  background-color: #7181ff;
+  height: 100vh;
+}
+
+.app >h1 {
+  color: #8b98fd;
+}
+
+.app__body {
+  display: flex;
+  background-color:#a7b1ffb7;
+  border-radius: 20px;
+  height: 83vh;
+  width: 98vw;
+  margin-top: -50px;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.8);
+}

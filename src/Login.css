@@ -1,0 +1,29 @@
+
+.login {
+    background-color: #8b98fd;
+    height: 45vh;
+    width: 45vh;
+    display: grid;
+    place-items: center;
+    border-radius: 20px;
+    color: #ffffff;
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 1);
+}
+
+
+.login__container >img {
+    object-fit: contain;
+    height: 170px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
+}
+
+.button {
+    zoom: 0.45;
+    margin-bottom: 8px;
+}
+
+.login_text {
+    margin-top: 10px;
+}
